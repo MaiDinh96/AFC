@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSort",
+            "request": "launch",
+            "mainClass": "app.SelectionSort",
+            "projectName": "CompareTriple"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InsertionSort",
+            "request": "launch",
+            "mainClass": "app.InsertionSort",
+            "projectName": "CompareTriple"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "mainClass": "app.BubbleSort",
+            "projectName": "CompareTriple"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example",
+            "request": "launch",
+            "mainClass": "app.Example",
+            "projectName": "CompareTriple"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CheckVowel",
+            "request": "launch",
+            "mainClass": "app.CheckVowel",
+            "projectName": "CompareTriple"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-App<CompareTriple>",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "CompareTriple"
+        }
+    ]
+}
